@@ -1,0 +1,16 @@
+{
+  "name": "graphql-tuto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ederpbj/graphql-tuto.git",
+  "author": "ederpbj <ederpbj@yahoo.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.9.14",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
+  }
+}
